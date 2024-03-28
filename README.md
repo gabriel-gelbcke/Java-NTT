@@ -1,4 +1,4 @@
-# ProjetoCX / Projeto Aula 1
+# ProjetoCX / Atividade Aula 1
 
 Atividade 01 Output:<br>
 Batman, é um filme de Ação que foi lançado em 2003 e obteve 9 Oscars.<br>
